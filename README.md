@@ -9,7 +9,7 @@ Projeto colaborativo para construir um site de várias páginas usando **Git** (
   - Isabella Araújo de Omena — @isabellaomena (papel: arquiteta) — página: `paginas/aluno-ISABELLAOMENA.html`
   - Lukas Theodoro Fernandes — @lukastheodoro07 (papel: revisor-chefe) — página: `paginas/aluno-LUKASTHEODORO.html`
   - Miguel Henrique Alves de Oliveira — @miguelh19max (papel: integrador) — página: `paginas/aluno-MIGUELHENRIQUE.html`
-  - Pietra Rodrigues Guimarães — @pietrarg (papel: documentador) — página: `paginas/aluno-PIETRARODRIGUES.html`
+  - Pietra Rodrigues Guimarães — @pietrarg (papel: documentadora) — página: `paginas/aluno-PIETRARODRIGUES.html`
 
 ## Sobre
 Aqui você encontra:
@@ -90,7 +90,7 @@ Abra o arquivo `index.html` no navegador.
 
 ### Opção B — Site publicado (GitHub Pages)
 O link fica em **Settings → Pages** (depois de publicar).  
-**Link do site:**: https://github.com/isabellaomena/DominandoGiteGithub/
+**Link do site:**: https://isabellaomena.github.io/DominandoGiteGithub/
 
 ## Se algo der errado (atalhos)
 - `'git' não é reconhecido` → reinstale o Git escolhendo a opção correta de PATH
